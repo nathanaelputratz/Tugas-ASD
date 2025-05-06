@@ -11,10 +11,10 @@ Cek apakah compiler sudah terinstal dengan:
 g++ --version
 ```
 Untuk melakukan kompilasi dapat dengan menggunakan command:
-`
+```
 g++ program_v2.cpp -o <nama_output_program>.exe
-`
+```
 Untuk menjalankan program yang sudah dikompilasi dapat dengan menggunakan command:
-`
+```
 ./<nama_output_program>.exe
-`
+```
