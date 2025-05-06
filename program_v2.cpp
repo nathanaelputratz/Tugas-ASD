@@ -188,10 +188,6 @@ int main() {
     cout << "Massukan ekspresi infix yang hendak di evaluasi : ";
     getline(cin, t);
     vector<string> postfix = infixToPostfix(t);
-    for (string s : postfix) {
-        cout << s << " ";
-    }
-    cout << endl;
     Node* root = createExpressionTree(postfix);
     cout << "Hasil : " << evaluate(root) << "\n";
 
