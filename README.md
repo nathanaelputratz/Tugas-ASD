@@ -5,7 +5,7 @@ Pada repository ini berisikan lampiran kode program yang dibuat untuk memenuhi t
 Program ini ditulis dalam bahasa C++ dan terdiri dari satu file utama yakni: `program_v2.cpp`. 
 
 ## 🧰 Prasyarat
-Pastikan Anda memiliki **compiler C++** yang terinstal. Contoh yang umum digunakan:
+Pastikan memiliki **compiler C++** yang terinstal. Contoh yang umum digunakan:
 Cek apakah compiler sudah terinstal dengan:
 ```bash
 g++ --version
